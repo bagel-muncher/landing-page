@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+/* This is for the header */
+.header {
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.header-logo {
+    font-family: 'Hero Main', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    display: flex;
+    align-self: center;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 16px;
+    font-family: 'Hero Secondary', sans-serif;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+/* This is for container-one */
